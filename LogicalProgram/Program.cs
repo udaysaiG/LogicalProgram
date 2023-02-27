@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to LogicalProgram");
+            //Console.WriteLine("Welcome to LogicalProgram");
+            FibonacciSeries.Fibonacci_Series();
         }
     }
 }
