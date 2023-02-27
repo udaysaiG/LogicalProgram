@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             //Console.WriteLine("Welcome to LogicalProgram");
-            FibonacciSeries.Fibonacci_Series();
+            // FibonacciSeries.Fibonacci_Series();
+            PerfectNumber.Perfect_Number();
         }
     }
 }
