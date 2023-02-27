@@ -9,7 +9,8 @@
             //PerfectNumber.Perfect_Number();
             // PerfectNumber.Perfect_Number();
             // PrimeNumber.Prime_Number();
-            ReverseNumber.Reverse_Number();
+            // ReverseNumber.Reverse_Number();
+            CouponNumber.coupon_Number();
         }
 
     }
